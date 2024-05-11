@@ -1,2 +1,2 @@
 # fconecta_extras
-This repo contains some programs  and sources I made to create FConecta project
+This repo contains some programs and sources we used to create FConecta project
