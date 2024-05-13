@@ -1,0 +1,782 @@
+Álgebra Superior I
+Cálculo Diferencial e Integral I
+Geometría Analítica I
+Inglés I
+Teoría del Seguro
+Álgebra Superior II
+Cálculo Diferencial e Integral II
+Contabilidad
+Geometría Analítica II
+Inglés II
+Programación
+Álgebra Lineal I
+Cálculo Diferencial e Integral III
+Inglés III
+Manejo de Datos
+Matemáticas Financieras
+Probabilidad I
+Cálculo Diferencial e Integral IV
+Ecuaciones Diferenciales I
+Inglés IV
+Investigación de Operaciones
+Matemáticas Actuariales del Seguro de Personas I
+Probabilidad II
+Análisis Matemático I
+Economía
+Inferencia Estadística
+Matemáticas Actuariales del Seguro de Personas II
+Mercados Financieros y Valuación de Instrumentos
+Procesos Estocásticos I
+Análisis Numérico
+Demografía
+Inglés V
+Matemáticas Actuariales para Seguro de Daños Fianzas y Reaseguro,
+Métodos Cuantitativos en Finanzas
+Modelos no Paramétricos y de Regresión
+Análisis del México Contemporáneo
+Inglés VI
+Modelos de Supervivencia y de Series de Tiempo
+Seguridad Social
+Administración Actuarial del Riesgo
+Pensiones Privadas
+Teoría del Riesgo
+Administración de Riesgos
+Administración de Riesgos Financieros
+Administración Financiera
+Álgebra Lineal II
+Análisis Matemático II
+Análisis Matemático III
+Análisis Matemático IV
+Análisis Multivariado
+Auditoría Actuarial
+Bases de Datos
+Carteras de Inversión
+Ciencia Diversidad e Inclusión,
+Demografía Avanzada
+Econometría I
+Ecuaciones Diferenciales II
+Ecuaciones Diferenciales III
+Estadística Bayesiana
+Finanzas Corporativas
+Introducción a la Investigación Social
+Introducción Crítica a la Diplomacia de la Ciencia
+Legislación en Seguro Privado y Social
+Lógica Matemática I
+Lógica Matemática II
+Lógica Matemática III
+Mercadotecnia de Seguros
+Muestreo
+Planeación Estratégica
+Procesos Estocásticos II
+Programación Lineal
+Programación no Lineal
+Reaseguro
+Seminario de Aplicaciones Actuariales I
+Seminario de Estadística I
+Seminario de Investigación de Operaciones
+Series de Tiempo
+Simulación Estocástica
+Temas Selectos de Economía
+Temas Selectos de Investigación de Operaciones
+Teoría de Juegos en Economía
+Teoría de la Medida I
+Teoría de las Decisiones
+Teoría de Redes
+Topología I
+Topología II
+--
+Biología de Procariontes
+Filosofía e Historia de la Biología
+Física
+Matemáticas I
+Química
+Biología de Protistas y Algas
+Biología Molecular de la Célula I
+Matemáticas II
+Química Orgánica
+Sistemática I
+Bioestadística
+Biología de Hongos
+Biología de Plantas I
+Biología Molecular de la Célula II
+Ciencias de la Tierra
+Biogeografía I
+Biología de Animales I
+Biología de Plantas II
+Biología Molecular de la Célula III
+Biotecnología I
+Biología de Animales II
+Ecología I
+Genética I
+Paleobiología
+Taller Nivel 1
+Biología de Animales III
+Recursos Naturales
+Taller Nivel 2
+Evolución I
+Taller Nivel 3
+Taller Nivel 4
+Acuacultura
+Administración de Recursos Naturales
+Análisis Socioambiental y Gestión de Recursos Naturales
+Anatomía Animal
+Anatomía Vegetal
+Anfibios y Reptiles
+Artrópodos
+Astronomía General
+Biodiversidad
+Biología Molecular
+Biología y Técnicas de Animales de Laboratorio
+Bioquimica
+Briofitas y Pteridofitas
+Cactología
+Carcinogenésis
+Ciencia Diversidad e Inclusión,
+Climatologia
+Conducta Animal
+Contaminación Ambiental
+Cronobiología
+Didáctica de la Biología
+Ecología de Comunidades Litorales
+Ecología de la Conducta
+Ecología de la Polinización
+Ecología de Poblaciones
+Ecología Urbana
+Edafología
+El Cultivo de Tejidos Vegetales como Herramienta Biotecnologíca
+El Zoológico como Centro de Conservación
+Embriología Vegetal
+Entomología
+Epigenética
+Etnobotánica
+Etnofarmacología
+Etnozoología
+Eventos Principales en la Evolución de la vida Fanerozoica
+Evolución II
+Genética de Poblaciones
+Geomorfologia
+Ictiología
+Ingeniería de Tejidos
+Inmunología
+Introducción a la Acarología
+Introducción a la Oceanografía
+Introducción Crítica a la Diplomacia de la Ciencia
+Malacología
+Manejo de Anfibios y Reptiles en Cautiverio
+Manejo de Vertebrados Terrestres
+Mastozoología
+Métodos de Enseñanza
+México: Nación Multicultural
+Microbiología
+Naturaleza y Sociedad
+Neurobiología
+Origen de la Vida
+Ornitología
+Paleobiología de Dinosaurios
+Parasitología General
+Polémicas Contemporáneas de la Evolución
+Recursos Forestales de México y su Manejo Sustentable
+Restauración Ecológica
+Seminario de Biología I
+Seminario de Biología II
+Seminario de Biología III
+Seminario de Biología IV
+Técnicas de Radioisotopos
+Temas Selectos de Biología I
+Temas Selectos de Biología II
+Temas Selectos de Biología III
+Temas Selectos de Biología IV
+Toxicología Molecular
+Virologia
+--
+Mecánica Vectorial
+Fenómenos Colectivos
+Técnicas Experimentales
+Geoquímica
+Sistemas Acuáticos
+Estadística Aplicada
+Fenómenos Electromagnéticos
+Políticas y Normatividad en el Manejo de los Sistemas Terráqueos
+Análisis y Manejo de Cuencas
+Astrobiología
+Bioquímica Ambiental
+Cartografía
+Ciencia del Suelo
+Computación y Análisis de Datos Geofísicos
+Dinámica de Fluidos Geofísicos
+Dinámica de Medios Deformables
+Ecología Urbana
+Economía y Desarrollo Sustentable
+Educación Ambiental
+Espectroscopía (Física Atómica y Molecular)
+Evaluación de Riesgo Ecológico
+Evaluación del Riesgo Geológico
+Filosofía y Ética de la Ciencia
+Genética de la Conservación
+Geología Estructural
+Geología y Atmósferas Planetarias
+Impacto Ambiental
+Impacto de los Fenómenos Terrestres
+Matemáticas Avanzadas de las Ciencias de la Tierra
+Meteorología
+Meteorología Sinóptica y de Mesoescala
+Métodos Geofísicos de Exploración
+Mineralogía
+Percepción Remota y Sistemas de Información Geográfica
+Petrología de Rocas Cristalinas
+Química Planetaria
+Radiación Solar y Terrestre
+Recursos Naturales
+Taller de Investigación en Ciencias Acuáticas I
+Taller de Investigación en Ciencias Acuáticas II
+Taller de Investigación en Ciencias Ambientales I
+Taller de Investigación en Ciencias Ambientales II
+Taller de Investigación en Ciencias Atmosféricas I
+Taller de Investigación en Ciencias de la Tierra Sólida I
+Taller de Investigación en Ciencias de la Tierra Sólida II
+Taller de Investigación en Ciencias Espaciales I
+Taller de Investigación en Ciencias Espaciales II
+Taller de Modelación Numérica
+Técnicas de Análisis Ambiental
+Temas Selectos de Ciencias Espaciales I
+Temas Selectos de Ciencias Espaciales II
+Toxicología Ambiental
+Ciencia Diversidad e Inclusión,
+Introducción Crítica a la Diplomacia de la Ciencia
+--
+Álgebra Superior I
+Cálculo Diferencial e Integral I
+Geometría Analítica I
+Matemáticas Discretas
+Álgebra Superior II
+Cálculo Diferencial e Integral II
+Geometría Analítica II
+Introducción a Ciencias de la Computación I
+Álgebra Lineal I
+Cálculo Diferencial e Integral III
+Introducción a Ciencias de la Computación II
+Álgebra Lineal II
+Análisis Lógico
+Cálculo Diferencial e Integral IV
+Análisis de Algoritmos I
+Arquitectura de Computadoras
+Teoría de la Computación
+Inteligencia Artificial
+Lenguajes de Programación y sus Paradigmas
+Sistemas de Bases de Datos
+Sistemas Operativos
+Análisis Numérico I
+Ingeniería de Software
+Redes de Computadoras
+Álgebra Moderna I
+Álgebra Moderna II
+Algoritmos Genéticos
+Análisis de Algoritmos II
+Análisis de Redes
+Análisis Matemático I
+Análisis Matemático II
+Ciencia Diversidad e Inclusión,
+Compiladores
+Complejidad Computacional
+Diseño de interfaces
+Ecuaciones Diferenciales I
+Ecuaciones Diferenciales Parciales I
+Estadística I
+Funciones Especiales y Transformadas Integrales
+Geometría Computacional
+Geometría Moderna I
+Geometría Proyectiva
+Graficación por Computadoras
+Introducción a la Investigación de Operaciones
+Introducción Crítica a la Diplomacia de la Ciencia
+Lingüística Computacional
+Lógica Matemática III
+México: Nación Multicultural
+Principios de Computación Distribuida
+Probabilidad II
+Proceso Digital de Imagenes
+Procesos Paralelos y Distribuidos
+Programación Lineal
+Programación no Lineal
+Redes Neuronales y Autómatas Celulares
+Robótica
+Seminario de Análisis Combinatorio
+Seminario de Análisis Matemático A
+Seminario sobre Enseñanza de las Matemáticas I
+Temas Selectos de Ingeniería de Software B
+Teoría de Gráficas
+Teoría de los Números I
+Teoría de los Números II
+Topología I
+Variable Compleja I
+Variable Compleja II
+--
+Álgebra Superior I
+Estructuras Discretas
+Inglés I
+Introducción a Ciencias de la Computación
+Matemáticas para las Ciencias Aplicadas I
+Álgebra Superior II
+Estructuras de Datos
+Graficas y Juegos
+Inglés II
+Matemáticas para las Ciencias Aplicadas II
+Álgebra Lineal I
+Inglés III
+Matemáticas para las Ciencias Aplicadas III
+Modelado y Programación
+Probabilidad I
+Autómatas y Lenguajes Formales
+Inglés IV
+Lógica Computacional
+Matemáticas para las Ciencias Aplicadas IV
+Organización y Arquitectura de Computadoras
+Análisis de Algoritmos
+Computación Distribuida
+Fundamentos de Bases de Datos
+Inglés V
+Lenguajes de Programación
+Ingeniería de Software
+Inteligencia Artificial
+Sistemas Operativos
+Compiladores
+Complejidad Computacional
+Redes de Computadoras
+Computación Concurrente
+Criptografía y Seguridad
+Inglés VI
+Álgebra Lineal II
+Álgebra Moderna I
+Álgebra Moderna II
+Algoritmos Paralelos
+Análisis de Algoritmos II
+Análisis Numérico
+Animación por Computadora
+Ciencia Diversidad e Inclusión,
+Cómputo Evolutivo
+Diseño de Interfaces de Usuario
+Diseño y Programación de Videojuegos
+Estadística I
+Estadística II
+Genómica Computacional
+Geometría Computacional
+Graficación por Computadoras
+Introducción a las Funciones Recursivas y Computabilidad
+Introducción Crítica a la Diplomacia de la Ciencia
+Investigación de Operaciones
+Lingüística Computacional
+Lógica Matemática II
+Lógica Matemática III
+Métricas de Software
+Probabilidad II
+Proceso Digital de Imagenes
+Procesos Estocásticos
+Programación de Dispositivos Móviles
+Programación Lineal
+Programación no Lineal
+Realidad Virtual
+Reconocimiento de Patrones y Aprendizaje Automatizado
+Redes Neuronales
+Robótica
+Seminario de Ciencias de la Computación A
+Seminario de Ciencias de la Computación B
+Teoría de Gráficas
+Teoría de las Gráficas II
+Teoría de los Conjuntos I
+Teoría de los Conjuntos II
+Teoría de los Números I
+Teoría de los Números II
+Teoría de Redes
+--
+Álgebra
+Cálculo Diferencial e Integral I
+Computación
+Física Contemporánea
+Geometría Analítica I
+Cálculo Diferencial e Integral II
+Geometría Analítica II
+Laboratorio de Mecánica
+Mecánica Vectorial
+Álgebra Lineal I
+Cálculo Diferencial e Integral III
+Fenómenos Colectivos
+Laboratorio de Fenómenos Colectivos
+Cálculo Diferencial e Integral IV
+Ecuaciones Diferenciales I
+Electromagnetismo I
+Laboratorio de Electromagnetismo
+Introducción a la Física Cuántica
+Laboratorio de Óptica
+Óptica
+Variable Compleja I
+Matemáticas Avanzadas de la Física
+Mecánica Analítica
+Relatividad
+Termodinámica
+Electromagnetismo II
+Física Computacional
+Laboratorio de Electrónica
+Mecánica Cuántica
+Dinámica de Medios Deformables
+Física Atómica y Materia Condensada
+Física Estadística
+Laboratorio de Física Contemporánea I
+Física Nuclear y Subnuclear
+Laboratorio de Física Contemporánea II
+Acústica en Fluidos
+Adquisición y Procesamiento de Señales
+Álgebra Lineal II
+Álgebra Moderna I
+Álgebra Moderna II
+Álgebra Superior II
+Análisis de Fourier I
+Análisis Matemático I
+Análisis Matemático II
+Astrofísica Extragaláctica y Cosmología
+Astrofísica General
+Biofísica General
+Cálculo de las Variaciones
+Ciencia Diversidad e Inclusión,
+Ecuaciones Diferenciales II
+Ecuaciones Diferenciales III
+Ecuaciones Diferenciales Parciales I
+Estado Sólido I
+Estructura Electrónica de los Materiales
+Filosofía de la Física I
+Filosofía de la Física II
+Física de las Relaciones Sol Tierra
+Geometría Diferencial I
+Geometría Moderna I
+Geometría Moderna II
+Geometría Riemanniana I
+Geometría Riemanniana II
+Historia de la Física II
+Instrumentación Científica
+Introducción a la Acústica Contemporánea
+Introducción a la Biofísica y Física Médica
+Introducción a la Física Atómica y Molecular
+Introducción a la Física de los Materiales
+Introducción a la Física de Partículas Elementales I
+Introducción a la Física de Radiaciones
+Introducción a la Física Espacial
+Introducción a la Física Nuclear
+Introducción a la Óptica Cuántica
+Introducción a la Tecnología del Vacío y Aplicaciones
+Introducción a las Ciencias de la Tierra
+Introducción al Estado Sólido
+Introducción Crítica a la Diplomacia de la Ciencia
+Introducción Matemática a la Mecánica Celeste
+Láseres
+Máquinas Digitales con Laboratorio
+Materia Interestelar
+Meteorología
+México: Nación Multicultural
+Óptica de Fourier
+Robótica y Control
+Seguridad Radiológica
+Seminario de Álgebra B
+Seminario de Geometría B
+Seminario Filosofía de las Matemáticas
+Seminario sobre Enseñanza de las Matemáticas IV
+Sismología y Vulcanología
+Taller
+Técnicas de Crecimiento de Películas Delgadas y Recubrimientos en Vacío
+Temas Selectos de Astrofísica I
+Temas Selectos de Astrofísica II
+Temas Selectos de Astrofísica III
+Temas Selectos de Ciencias de la Tierra I
+Temas Selectos de Electrónica e Instrumentación I
+Temas Selectos de Estado Sólido III
+Temas Selectos de Filosofía de la Física
+Temas Selectos de Física Atómica y Molecular I
+Temas Selectos de Física Computacional I
+Temas Selectos de Física Computacional II
+Temas Selectos de Física Computacional III
+Temas Selectos de Física de Materiales I
+Temas Selectos de Física de Partículas Elementales I
+Temas Selectos de Física de Partículas Elementales II
+Temas Selectos de Física de Partículas Elementales III
+Temas Selectos de Física de Plasmas I
+Temas Selectos de Física de Radiacciones I
+Temas Selectos de Física de Radiaciones II
+Temas Selectos de Física Matemática y Teórica I
+Temas Selectos de Física Matemática y Teórica II
+Temas Selectos de Física Matemática y Teórica III
+Temas Selectos de la Historia de la Física
+Temas Selectos de Mecánica de Fluidos I
+Temas Selectos de Óptica I
+Temas Selectos de Óptica II
+Temas Selectos de Óptica III
+Temas Selectos de Relatividad Cosmología y Gravitación I,
+Temas Selectos de Relatividad Cosmología y Gravitación III,
+Temas Selectos de Termodinámica y Física Estadística I
+Temas Selectos de Termodinámica y Física Estadística III
+Teoría de los Números I
+Topología I
+Variable Compleja II
+--
+Álgebra
+Cálculo Diferencial e Integral I
+Bioquímica
+Cálculo Diferencial e Integral II
+Geometría Analítica I
+Inglés
+Mecánica Vectorial
+Medición y Análisis en la Física Experimental
+Cálculo Avanzado
+Fenómenos Colectivos
+Algoritmos Computacionales
+Ecuaciones Diferenciales I
+Elaboración y Desarrollo de Proyectos Experimentales
+Electromagnetismo I
+Inglés
+Morfofuncional II
+Física Computacional
+Introducción a la Física Cuántica
+Matemáticas Avanzadas
+Óptica
+Bioestadística
+Electromagnetismo II
+Física del Cuerpo Humano
+Inglés
+Interacción de la Radiación con la Materia
+Termofísica
+Instrumentación Biomédica
+Mecánica Cuántica
+Práctica Profesional Supervisada
+Imagenología Biomédica
+Seguridad Radiológica
+Física Biológica
+Sistemas Dinámicos de la Fisiología
+Dosimetría
+Sistemas Híbridos en Biomedicina
+Bioética
+Ciencia Tecnología y Sociedad,
+Filosofía de la Ciencia
+Filosofía de la Tecnología
+México: Nación Multicultural
+Biomateriales
+Dinámica de Biofluidos
+Epigenética
+Introducción a la Antropología Física y Forense
+Temas Selectos en Biofísica
+Temas Selectos en Biomatemáticas
+Temas Selectos en Física Biológica
+Biosensores
+Física de la Medicina Nuclear
+Física de la Radioterapia
+Física de la Resonancia Magnética
+Reconstrucción de Imágenes Biomédicas
+Temas Selectos en Física de la Terapia Médica
+Temas Selectos en Física del Diagnóstico Médico
+Temas Selectos en Instrumentación Biomédica
+--
+Ciencia Diversidad e Inclusión,
+Introducción Crítica a la Diplomacia de la Ciencia
+--
+Álgebra Superior I
+Cálculo Diferencial e Integral I
+Geometría Analítica I
+Geometría Moderna I
+Álgebra Superior II
+Cálculo Diferencial e Integral II
+Geometría Analítica II
+Álgebra Lineal I
+Cálculo Diferencial e Integral III
+Álgebra Lineal II
+Cálculo Diferencial e Integral IV
+Ecuaciones Diferenciales I
+Álgebra Moderna I
+Análisis Matemático I
+Variable Compleja I
+Análisis Matemático II
+Álgebra Geométrica
+Ciencia Diversidad e Inclusión,
+Conjuntos Convexos
+Conjuntos y Lógica
+Electromagnetismo I
+Fenómenos Colectivos
+Geometría Moderna II
+Geometría Proyectiva
+Graficas y Juegos
+Introducción a Ciencias de la Computación I
+Introducción a Ciencias de la Computación II
+Introducción a la Geometría Avanzada
+Matemáticas Discretas
+Mecánica Vectorial
+Probabilidad I
+Teoría de los Números I
+Teoría de los Números II
+Álgebra Moderna II
+Análisis de Algoritmos I
+Análisis Numérico
+Arquitectura de Computadoras
+Cálculo de las Variaciones
+Economía I
+Ecuaciones Diferenciales II
+Electromagnetismo II
+Estadística I
+Estadística II
+Geometría Diferencial I
+Geometría Diferencial II
+Historia de las Matemáticas I
+Historia de las Matemáticas II
+Introducción a la Física Cuántica
+Introducción Matemática a la Mecánica Celeste
+Investigación de Operaciones
+Lenguajes de Programación y sus Paradigmas
+Lógica Matemática I
+Matemáticas Avanzadas de la Física
+Mecánica Analítica
+Muestreo
+Óptica
+Probabilidad II
+Programación Lineal
+Seminario de Ciencia y Sociedad I
+Sistemas Dinámicos Discretos I
+Sistemas Operativos
+Teoría de Gráficas
+Teoría de la Computación
+Teoría de la Medida I
+Teoría de los Conjuntos I
+Termodinámica
+Topología I
+Álgebra Moderna III
+Análisis de Fourier I
+Análisis Matemático III
+Análisis Matemático IV
+Biología Matemática I
+Complejidad Computacional
+Dinámica de Medios Deformables
+Econometría I
+Economía II
+Ecuaciones Diferenciales III
+Ecuaciones Diferenciales Parciales I
+Estadística Bayesiana
+Estadística III
+Física Computacional
+Física Estadística
+Geometría Algebraica I
+Geometría Algebraica II
+Geometría Riemanniana I
+Geometría Riemanniana II
+Ingeniería de Software
+Inteligencia Artificial
+Introducción a las Funciones Recursivas y Computabilidad
+Introducción Crítica a la Diplomacia de la Ciencia
+Lógica Matemática II
+Lógica Matemática III
+Mecánica Cuántica
+Procesos Estocásticos I
+Procesos Estocásticos II
+Programación no Lineal
+Redes de Computadoras
+Relatividad
+Seminario de Álgebra A
+Seminario de Álgebra B
+Seminario de Análisis Combinatorio
+Seminario de Análisis Matemático A
+Seminario de Análisis Matemático B
+Seminario de Ciencia y Sociedad II
+Seminario de Filosofía de la Ciencia I
+Seminario de Geometría A
+Seminario de Geometría B
+Seminario de Investigación de Operaciones
+Seminario de Probabilidad A
+Seminario de Topología A
+Seminario de Topología B
+Seminario Filosofía de las Matemáticas
+Seminario Matemáticas Aplicadas I
+Seminario Matemáticas Aplicadas II
+Seminario sobre Enseñanza de las Matemáticas I
+Seminario sobre Enseñanza de las Matemáticas IV
+Seminario Sobre Enseñanza Matemáticas III
+Sistemas Dinámicos Discretos II
+Teoría de Juegos I
+Teoría de las Decisiones
+Teoría de las Gráficas II
+Teoría de los Conjuntos II
+Teoría de los Conjuntos III
+Teoría de Redes
+Topología Diferencial I
+Topología II
+Variable Compleja II
+--
+Álgebra Superior I
+Cálculo Diferencial e Integral I
+Geometría Analítica I
+Introducción a las Matemáticas Discretas
+Taller de Herramientas Computacionales
+Álgebra Superior II
+Cálculo Diferencial e Integral II
+Ciencia Básica
+Geometría Analítica II
+Inglés I
+Programación
+Álgebra Lineal I
+Cálculo Diferencial e Integral III
+Inglés II
+Manejo de Datos
+Probabilidad I
+Taller de Modelación I
+Álgebra Lineal II
+Cálculo Diferencial e Integral IV
+Ecuaciones Diferenciales I
+Inglés III
+Investigación de Operaciones
+Probabilidad II
+Análisis Matemático I
+Análisis Numérico
+Inferencia Estadística
+Taller de Modelación II
+Taller de Redacción
+Variable Compleja I
+Análisis Matemático Aplicado
+Inglés IV
+Procesos Estocásticos I
+Sistemas Dinámicos no Lineales
+Ecuaciones Diferenciales Parciales I
+Formación Científica I
+Inglés V
+Proyecto I
+Formación Científica II
+Inglés VI
+Proyecto II
+Biología Matemática I
+Ciencia Diversidad e Inclusión,
+Teoría de Juegos I
+Algoritmos Paralelos
+Análisis de Algoritmos
+Ciencia Diversidad e Inclusión,
+Estructuras de Datos
+Modelado y Programación
+Simulación Estocástica
+Solución Numérica de Ecuaciones Diferenciales Parciales
+Teoría de Gráficas
+Análisis de Algoritmos
+Ciencia Diversidad e Inclusión,
+Modelado y Programación
+Programación Lineal
+Programación no Lineal
+Seminario de Análisis Combinatorio
+Seminario de Investigación de Operaciones
+Temas Selectos de Investigación de Operaciones
+Teoría de Gráficas
+Teoría de Juegos I
+Teoría de las Decisiones
+Teoría de Redes
+Cálculo de las Variaciones
+Ciencia Diversidad e Inclusión,
+Teoría de la Medida I
+Introducción Crítica a la Diplomacia de la Ciencia
+Análisis Multivariado
+Ciencia Diversidad e Inclusión,
+Estadística Bayesiana
+Modelos no Paramétricos y de Regresión
+Procesos Estocásticos II
+Seminario de Probabilidad
+Series de Tiempo
+Simulación Estocástica
+Teoría de la Medida I
+Álgebra Matricial Numérica
+Solución Numérica de Ecuaciones Diferenciales Ordinarias
